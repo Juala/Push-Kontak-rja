@@ -30,9 +30,9 @@
 - Konfigurasi Owner Pada ```./setting/config.js```
 
 ```ts
-global.owner = ["6285742632270"];
-global.author = "RezaDevv";
-global.packname = "Push-Kontak";
+global.owner = ["6282132745904"];
+global.author = "RojaDeveloper";
+global.packname = "Push-Kontak-rja";
 global.sessionName = "Bot-Session";
 global.versionbot = "1.2.0";
 ```
@@ -51,8 +51,8 @@ $ npm start
 
 ## UNTUK PENGGUNA PANEL PTERODACTYL
 
-* Panel Pterodactyle [`Klik Disini`](https://panel.respayment.site)
-* Kontak Pembelian [`Klik Disini`](https://wa.me/+6285742632270)
+* Panel Pterodactyle [`Klik Disini`]() \\close
+* Kontak Pembelian [`Klik Disini`](https://wa.me/6282132745904)
 
 ```bash
 $ npm install
@@ -71,7 +71,7 @@ $ npm start
 ```
 
 ## Thanks To
-* [`ResahDevv`](https://github.com/resahdevv)
+* [`ResahDevv`](https://github.com/Juala)
 
 ```Thanks to all who have participated in the development of this script```
 
@@ -79,7 +79,7 @@ $ npm start
 <a href="https://saweria.co/rezadevv" target="_blank"><img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" alt="Donate For Yusril" height="41" width="174"></a>
 
 ## License
-[MIT License](https://github.com/resahdevv/Push-Kontak/LICENSE)
+[MIT License](https://github.com/Juala/Push-Kontak-rja/LICENSE)
 
-```Copyright (c) 2023 Rezadevv```
+```Copyright (c) 2023 rojadev```
 
